@@ -243,3 +243,4 @@ Users can create their own templates and categories. See [`.templates/README.md`
 
 MIT
 # landing-plugin
+# landing-plugin
